@@ -89,4 +89,5 @@ int main()
 		std::cout << "You don't have cars" << std::endl;
 		return 0;
 	}
+	delete car;
 }
